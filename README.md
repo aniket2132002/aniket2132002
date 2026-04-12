@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working at **TechJar Technologies**
 
-- 🌱 I’m currently learning **MCA Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aniket-jadhav-68943825b](https://www.linkedin.com/in/aniket-jadhav-68943825b)
 
