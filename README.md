@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Jadhav</h1>
-<h3 align="center">A passionate about Artificial Intelligence and Machine learnin</h3>
+<h3 align="center">A passionate about Artificial Intelligence and Machine learning</h3>
 
 - 🔭 I’m currently working at **TechJar Technologies**
 
